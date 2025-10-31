@@ -287,25 +287,5 @@ npm test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **FastAPI** team for the excellent web framework
-- **React** team for the powerful UI library
-- **PostgreSQL** community for the robust database
-- **Docker** team for containerization platform
-
-## 📞 Support
-
-If you have any questions or need help with the application, please:
-
-1. Check the [API documentation](http://localhost:8000/docs)
-2. Review the [Issues](https://github.com/your-repo/issues) page
-3. Create a new issue with detailed information
-
----
 
 **Built with ❤️ for modern web development**
